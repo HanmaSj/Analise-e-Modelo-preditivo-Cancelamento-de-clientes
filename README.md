@@ -11,6 +11,8 @@ Para manipulação e tratamento dos Dados foram utilizadas as bibliotecas Pandas
 Para Visualização dos Dados foram utilizadas as bibliotecas Matplotlib, Plotly e seaborn.
 Para criação, treinamento e teste dos Modelos foram usadas as bibliotecas scikit-learn e XGBoost (Foi testado mais de 1 modelo).
 
+Também foi utilizado o Módulo "utils", um módulo pessoal com códigos reutilizaveis de Machine Learning. (Pode ser visualizado através das pastas: Projeto -> utils)
+
 ### Passo a Passo do Projeto:
 
 1 - Limpeza e Tratamento de Dados.
