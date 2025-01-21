@@ -39,7 +39,11 @@ Projeto de Ciência dos Dados.
 4 - Relatório.
 
   - Sendo a última fase, foi relatado os principais pontos do projeto:
+    
       Oque foi encontrado nos Dados.
+    
       Quais os pontos que a empresa deve focar.
+
       Oque leva os clientes a cancelar o serviço.
+    
       Propostas de intervenção.
