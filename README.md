@@ -53,4 +53,4 @@ Projeto de Ciência dos Dados.
 
 - O Arquivo de Dados ("cancelamentos_sample.csv") deve estar no mesmo diretório do Arquivo com final ".ipynb" (Para que a leitura dos Dados sejam feita diretamente).
 
-- Caso não esteja no mesmo diretório, deve ser adicionado na leitura dos Dados - "df = pd.read_csv("caminho/completo/cancelamentos_sample.csv") - o caminho estendido da Base de Dados.
+- Caso não esteja no mesmo diretório, deve ser adicionado na leitura dos Dados - "df = pd.read_csv("caminho/completo/cancelamentos_sample.csv") - o caminho estendido da Base de Dados, assim como no exemplo.
