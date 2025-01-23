@@ -47,3 +47,10 @@ Projeto de Ciência dos Dados.
       Oque leva os clientes a cancelar o serviço.
     
       Propostas de intervenção.
+
+
+## O PROJETO/CÓDIGOS PODEM SER EXECUTADOS ATRAVÉS DE UM NOTEBOOK PYTHON.
+
+- O Arquivo de Dados (nome do arquivo) deve estar no mesmo diretório do Arquivo com final ".ipynb" (Para que a leitura dos Dados sejam feita diretamente).
+
+- Caso não esteja no mesmo diretório, deve ser adicionado na leitura dos Dados (variavel de leitura) o caminho estendido da Base de Dados.
