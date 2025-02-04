@@ -58,7 +58,7 @@ Projeto de Ciência dos Dados.
 
 # ANÁLISE DOS DADOS
 
-**Para visualizar a Análise completa dos Dados, você pode acessar o link: [link da analise no medium].**
+**Para visualizar somente a Análise dos Dados, você pode acessar o link: [link da analise no medium].**
 
 ### Dashboard
 
