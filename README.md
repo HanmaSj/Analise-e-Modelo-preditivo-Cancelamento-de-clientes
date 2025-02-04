@@ -56,4 +56,11 @@ Projeto de Ciência dos Dados.
 - Caso não esteja no mesmo diretório, deve ser adicionado na leitura dos Dados - "df = pd.read_csv("caminho/completo/cancelamentos_sample.csv") - o caminho estendido da Base de Dados, assim como no exemplo.
 
 
-## Dashboard
+# ANÁLISE DOS DADOS
+
+**Para visualizar a Análise completa dos Dados, você pode acessar o link: [link da analise no medium].**
+
+### Dashboard
+
+**Para Visualizar o Dashboard de forma interativa (PowerBI), acesse o link: https://app.powerbi.com/view?r=eyJrIjoiYzA3YzE0NTQtZDI1Ni00MDgzLWIyMzctZDgwODAzYTFhYzI5IiwidCI6ImZlMTFmMTljLTgwODYtNDMxNi04N2U3LTYxODJhMjQ1ZjIxNiJ9** 
+
