@@ -62,5 +62,5 @@ Projeto de Ciência dos Dados.
 
 ### Dashboard
 
-**Para Visualizar o Dashboard de forma interativa (PowerBI), acesse o link: https://app.powerbi.com/view?r=eyJrIjoiYzA3YzE0NTQtZDI1Ni00MDgzLWIyMzctZDgwODAzYTFhYzI5IiwidCI6ImZlMTFmMTljLTgwODYtNDMxNi04N2U3LTYxODJhMjQ1ZjIxNiJ9** 
+**Para Visualizar o Dashboard de forma interativa (PowerBI), acesse o link: [[dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzA3YzE0NTQtZDI1Ni00MDgzLWIyMzctZDgwODAzYTFhYzI5IiwidCI6ImZlMTFmMTljLTgwODYtNDMxNi04N2U3LTYxODJhMjQ1ZjIxNiJ9)]** 
 
