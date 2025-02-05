@@ -58,7 +58,7 @@ Projeto de Ciência dos Dados.
 
 # ANÁLISE DOS DADOS
 
-**Para visualizar somente a Análise dos Dados, você pode acessar o link: [link da analise no medium].**
+**Para visualizar somente a Análise dos Dados, você pode acessar o link: [[link da analise no medium](https://medium.com/@Paulo007jr/an%C3%A1lise-de-dados-perca-de-clientes-3e053e2c7b2c)].**
 
 ### Dashboard
 
